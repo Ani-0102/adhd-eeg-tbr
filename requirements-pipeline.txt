@@ -1,0 +1,8 @@
+# Full pipeline: load, features, DuckDB, stats, models, tests (install on top of requirements.txt)
+-r requirements.txt
+scipy==1.18.1
+duckdb==1.5.6
+scikit-learn==1.9.1
+pytest==9.1.1
+torch==2.14.1
+certifi==2026.7.22
