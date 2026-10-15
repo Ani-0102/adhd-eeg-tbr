@@ -91,7 +91,7 @@ children.* IEEE DataPort, 2020. doi: [10.21227/rzfh-zn36](https://doi.org/10.212
 Licence: CC BY per IEEE DataPort's terms (attribution required). Raw data is not in this repo (`data/raw/` is gitignored). Download it from IEEE DataPort (free login).
 
 ## Live demo
-TBD: add the Streamlit Community Cloud link after deploying.
+https://adhd-eeg-tbr-chv8g9ka9vtqxgo2mpnt8v.streamlit.app/ (research demo, not a diagnostic tool)
 
 ## Deploy checklist (Streamlit Community Cloud)
 - [x] **Dataset licence:** IEEE DataPort's [FAQ](https://ieee-dataport.org/faq/who-owns-datasets-ieee-dataport) says uploaded datasets are available under CC BY, which allows sharing derived data with attribution. The dataset page itself shows no licence line, so the version is unconfirmed. Keep the citation below in the README and app.
